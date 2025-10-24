@@ -24,4 +24,4 @@ A **Framework** is a special software that provides abstraction on one or more t
 ---
 
 ### 🔧 Example Architecture
-    ![framework dev intrnal structure](img1.jpg "framework dev intrnal structure")
+![framework dev intrnal structure](img1.jpg "framework dev intrnal structure")
