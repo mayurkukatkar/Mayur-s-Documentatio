@@ -25,3 +25,10 @@ A **Framework** is a special software that provides abstraction on one or more t
 
 ### 🔧 Example Architecture
 
+![Framework Architecture](Mayur-s-Documentatio\my-docs\static\img\img1.jpg)
+
+---
+
+### 💡 Note
+- **Spring Boot = Spring++** (an enhanced version of the Spring Framework)
+- Frameworks simplify development by providing **ready-to-use architecture** and **pre-built modules**.
