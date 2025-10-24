@@ -25,7 +25,7 @@ A **Framework** is a special software that provides abstraction on one or more t
 
 ### 🔧 Example Architecture
 
-![Framework Architecture](Mayur-s-Documentatio\my-docs\static\img\img1.jpg)
+![Framework Architecture](/img/img1.jpg)
 
 ---
 
