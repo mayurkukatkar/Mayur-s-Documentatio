@@ -25,5 +25,3 @@ A **Framework** is a special software that provides abstraction on one or more t
 
 ### 🔧 Example Architecture
 
-![Framework hierarchy diagram showing three connected levels: Spring Framework at top, Java Enterprise Edition in middle, and Core Java at bottom. Blue rectangular boxes represent each component, connected by black vertical arrows pointing upward to illustrate how each level builds upon and extends the capabilities of the one below it. The arrangement emphasizes the progressive layering from programming language to technology to framework](img1.jpg)
-
