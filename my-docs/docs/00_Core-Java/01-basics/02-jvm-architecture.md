@@ -39,7 +39,7 @@ The Execution Engine reads the bytecode and executes it. It consists of:
 There is no specific code to demonstrate the JVM architecture itself, but understanding it is crucial for writing efficient Java code. For example, knowing how the garbage collector works can help you avoid memory leaks.
 
 ## Diagrams
-![diagram: jvm-architecture](images/jvm-architecture.png) — suggested: A block diagram showing the main components of the JVM.
+
 
 ```mermaid
 graph TD
